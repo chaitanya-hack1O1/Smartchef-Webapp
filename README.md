@@ -67,12 +67,10 @@ smartchef/
 └── recipes_web.db                # (Optional) local DB (can be gitignored)
 
 📦 Technology Stack:
-
-Layer	Stack Used
-UI/Frontend:-	Streamlit,Pillow
-API Integration:-Google API Client (YouTube)
-Web Scraping:-	requests, BeautifulSoup
-Backend Logic:-	Python 3
+UI/Frontend:-	Streamlit,Pillow,
+API Integration:-Google API Client (YouTube),
+Web Scraping:-	requests, BeautifulSoup,
+Backend Logic:-	Python3,
 Local Storage:-	SQLite3, JSON
 
 📥 How to Run This App
@@ -129,13 +127,12 @@ Integrating with voice assistants (next level)
 
 
 
-![Screenshot 2025-06-22 123939](https://github.com/user-attachments/assets/7037b383-26c5-4b4d-bfb4-e7ad37790747)
 ![Screenshot 2025-06-22 123902](https://github.com/user-attachments/assets/c0f45e40-dc61-4d7d-9fc4-7e9bc50c46a3)
 ![Screenshot 2025-06-22 123800](https://github.com/user-attachments/assets/98d85724-4a6c-49a3-b929-ffc047f4a210)
 ![Screenshot 2025-06-22 124113](https://github.com/user-attachments/assets/43d731fd-3103-4792-8a7a-16fffbd2e0e2)
 ![Screenshot 2025-06-22 124012](https://github.com/user-attachments/assets/93deddbf-0ddc-43e6-a086-4ef832beb0cf)
 
 Admin note for you:-
-Okay as this project is made just 2 hours and the reason behind this to make this project is I don't know about streamit lib and recently I learned about it so, I want to test my skills by doing. I have learnt many things logics and real cases & function & dealed with errors.So this is what, i made if you like this then star this repo.I will meet you with in next projects...
+Okay as this project is made just 2 hours and the reason behind this to make this project is I don't know about streamit lib and recently I learned about it so, I want to test my skills by doing. I have learnt many things logics and real cases & function & dealed with errors.So this is what, i made if you like this then star this repo.I will meet you with in next projects.
 Happy Learning
-Happy Hacking
+Happy Hacking...
