@@ -69,23 +69,24 @@ smartchef/
 📦 Technology Stack:
 
 Layer	Stack Used
-UI/Frontend:	Streamlit, Pillow
-API Integration:	Google API Client (YouTube)
-Web Scraping:	requests, BeautifulSoup
-Backend Logic:	Python 3
-Local Storage:	SQLite3, JSON
+UI/Frontend:-	Streamlit,Pillow
+API Integration:-Google API Client (YouTube)
+Web Scraping:-	requests, BeautifulSoup
+Backend Logic:-	Python 3
+Local Storage:-	SQLite3, JSON
 
 📥 How to Run This App
 
 pip install streamlit google-api-python-client beautifulsoup4 requests
+
 Then:
 
 Replace the API key:
 YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
+
 Launch the app:
-
-
 streamlit run streamlit_recipe_book.py
+
 ✅ Advantages
 Clean, ad-free recipe dashboard
 
@@ -123,6 +124,11 @@ Food bloggers organizing content
 Anyone wanting a smarter way to cook
 A cooking tablet/kitchen screen app
 Integrating with voice assistants (next level)
+
+
+
+
+
 ![Screenshot 2025-06-22 123939](https://github.com/user-attachments/assets/7037b383-26c5-4b4d-bfb4-e7ad37790747)
 ![Screenshot 2025-06-22 123902](https://github.com/user-attachments/assets/c0f45e40-dc61-4d7d-9fc4-7e9bc50c46a3)
 ![Screenshot 2025-06-22 123800](https://github.com/user-attachments/assets/98d85724-4a6c-49a3-b929-ffc047f4a210)
@@ -130,4 +136,6 @@ Integrating with voice assistants (next level)
 ![Screenshot 2025-06-22 124012](https://github.com/user-attachments/assets/93deddbf-0ddc-43e6-a086-4ef832beb0cf)
 
 Admin note for you:-
-Okay as this project is made just 2 hours and the reason behind this to make this project is I don't know about streamit lib and recently I learned about it so, I want to test my skills by doing and this web app. I have learnt many things logics and real case instrument that how does the web app in hosted on a streamit package so this is what I made if you like this then star this repo.I will meet you with in project
+Okay as this project is made just 2 hours and the reason behind this to make this project is I don't know about streamit lib and recently I learned about it so, I want to test my skills by doing. I have learnt many things logics and real cases & function & dealed with errors.So this is what, i made if you like this then star this repo.I will meet you with in next projects...
+Happy Learning
+Happy Hacking
