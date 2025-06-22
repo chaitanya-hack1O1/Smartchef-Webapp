@@ -1,9 +1,6 @@
 🌐 SmartChef — AI-Powered Interactive Recipe Web App
 “A smarter way to find, follow, and save recipes — beyond YouTube.”
-
-🏷️ App Name
-SmartChef
-Tagline: Cook Smart. Eat Smarter.
+Cook Smart. Eat Smarter.
 
 📌 Overview
 SmartChef is a modern, intelligent web app that allows users to search any recipe by name and instantly get:
